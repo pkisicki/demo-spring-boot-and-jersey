@@ -8,5 +8,6 @@
 ```
    ./run.sh
 ```
-   This will compile and run the application.
+	This will compile and run the application.
+
 4. Go to http://localhost:8081/hello
